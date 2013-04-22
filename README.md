@@ -43,6 +43,5 @@ royalcms-guide
 	* 	5.9 [日期解析]()
 	* 	5.10 [PHP原生态语法]()
 	
-6. 	[Plugin插件]()
+6. 	[二次开发](dev.md)
 
-7. 	[widget挂件]()
